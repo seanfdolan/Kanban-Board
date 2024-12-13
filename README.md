@@ -5,7 +5,7 @@ The motivation behind the application was to create an agile project management 
 
 To view the page from the command line, run:
 ```
-npm run start:dev
+npm start
 ```
 
 ## Installation
@@ -31,3 +31,6 @@ The Colombia U/edX lessons were followed, all elements were created by me.
 
 ## License
 MIT
+
+## Live Link
+https://kanban-board-6.onrender.com/
